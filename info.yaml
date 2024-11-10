@@ -4,7 +4,7 @@ project:
   title:        "Manchester Encoder"      # Project title
   author:       "Prajwal Shashidhar Chavadi"      # Your name
   discord:      "ghoulsuperfast"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Encodes incoming data in Manchester format"      # One line description of what your project does
+  description:  "Manchester Encoder"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
