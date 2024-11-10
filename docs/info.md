@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It encodes incoming serial data to manchester encoded serial data via a FSM with a clock frequency twice the frequency of the input data frequency
 
 ## How to test
 
-Explain how to use your project
+Apply incoming serial data with a frequency f and the design with a frequency x2 of the original frequency. check output for encoded data.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+NOT Gate, AND gate, D FlipFlops, OR gate, Clocks
